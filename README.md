@@ -1,6 +1,6 @@
 # Emoji Predictor using LSTM
 
-This project builds a machine learning model that predicts the most likely emoji based on the text of a social media post.
+This project builds a machine learning model using Long Short-Term Memory(LSTM) that predicts the most likely emoji based on the text of a social media post.
 
 ## Overview
 
