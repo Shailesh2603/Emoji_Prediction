@@ -15,7 +15,7 @@ This project builds a machine learning model that predicts the most likely emoji
 - `Mapping.csv`: Maps emoji IDs to emoji characters.
 - `Emoji_Predict.ipynb`: Jupyter notebook with complete code.
 - `predictions.csv`: Output file containing predictions for the test set.
-- `emoji_predictor_model.keras`: Saved trained model.
+- `emoji_pred_model.keras`: Saved trained model.
 - `toke.pkl`: Saved tokenizer.
 - `prep.pkl`: Preprocessing details like `maxlen` and emoji mapping.
 
