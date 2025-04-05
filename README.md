@@ -26,7 +26,3 @@ This project builds a machine learning model that predicts the most likely emoji
 - Pandas
 - Numpy
 - scikit-learn
-
-Install requirements using:
-```bash
-pip install -r requirements.txt
